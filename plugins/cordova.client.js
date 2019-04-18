@@ -45,6 +45,16 @@ export default (ctx, inject) => {
       } catch (err) {
         // console.error('init WKWebView failed', err)
       }
+
+      try {
+        this.initCustomUrlScheme()
+      } catch (err) {}
+    },
+
+    initCustomUrlScheme() {
+      window.handleOpenURL = url => {
+        alert('DeepLink: ' + url)
+      }
     },
 
     initStatusBar() {

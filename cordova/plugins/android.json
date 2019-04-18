@@ -9,6 +9,13 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.hokify.demo"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "mycoolapp",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.hokify.demo"
     }
   },
   "dependent_plugins": {}

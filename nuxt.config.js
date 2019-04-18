@@ -25,7 +25,7 @@ export default {
     ],
     __dangerouslyDisableSanitizers: ['meta'],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    script: [{ src: 'cordova.js' }]
+    script: [{ src: 'cordova.js' }, { src: 'js/plugins/LaunchMyApp.js' }]
   },
 
   /*
