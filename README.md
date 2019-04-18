@@ -2,21 +2,6 @@
 
 > cordova demo project
 
-## Build Setup
+## Presentation
 
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+For more detailed explanation see https://docs.google.com/presentation/d/1bvT9ZKt_zDHqWJfMeNbpphQuY2hgMELHByTigxRG90o/edit?usp=sharing&fbclid=IwAR2uRrc_s4dDge7ukQgWn65SHEumPB6bU2WjNCZ0zMOFQLM_eEyr9rZHHsU 
