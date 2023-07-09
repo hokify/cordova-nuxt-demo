@@ -27,7 +27,7 @@
     "@nuxtjs/eslint-config": "^0.0.1",
     "autoprefixer": "^8.6.4",
     "babel-eslint": "^10.0.1",
-    "cordova": "^9.0.0",
+    "cordova": "^12.0.0",
     "eslint": "^5.15.1",
     "eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": ">=12.0.0",
